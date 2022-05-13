@@ -19,3 +19,5 @@
 # 特别感谢
 [![念念不忘 必有回响 Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lilacce&langs_count=8)](https://github.com/lilacce/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lilacce&layout=compact&hide_border=true&langs_count=10)
+
