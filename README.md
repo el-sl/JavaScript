@@ -18,8 +18,4 @@
 
 # 特别感谢
 
-@zqkdFast
-
-# 访问量
-
-![lilacce's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=95265310&layout=compact&hide_border=true&langs_count=10)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lilacce&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
