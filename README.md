@@ -17,7 +17,5 @@
 * 您必须在下载后的24小时内从计算机或手机中完全删除以上内容.
 
 # 特别感谢
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lilacce&langs_count=8)](https://github.com/lilacce/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lilacce&layout=compact)](https://github.com/lilacce/github-readme-stats)
+[![念念不忘 必有回响 Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lilacce&langs_count=8)](https://github.com/lilacce/github-readme-stats)
 
