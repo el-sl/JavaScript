@@ -22,4 +22,4 @@
 
 # 访问量
 
-![念念不忘 必有回响's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lilacce&layout=compact&hide_border=true&langs_count=10)
+![lilacce's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lilacce&layout=compact&hide_border=true&langs_count=10)
