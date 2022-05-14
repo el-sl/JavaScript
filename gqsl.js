@@ -6,7 +6,6 @@
 自行捉https://mspace.gmmc.com.cn/user-soa/user/account/sign-in的body，填到gqslAccount里面，多账号换行或者@隔开
 注意青龙需要把body里的"换成\"，否则会出错
 export gqslAccount="{\"sig\":\"B8FCCC5BCAAAAAAAAAAAAAA19BBBB\",\"data\":\"safbkjasdhasihxcdz\",\"operatorId\":\"AAAAAAA-1232-1231-12312-BBBBBBBB\",\"timestamp\":\"1651765451373\",\"appId\":\"user-soa-service\"}"
-
 每天做签到和分享任务
 评论和发表任务我做了也没积分，所以没写，以后找到涨积分的方法再更新
 */
